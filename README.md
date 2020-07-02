@@ -2,7 +2,7 @@
 
 #### Link: https://fortwire.github.io/Who-Updates
 
-#### Setup
+#### Setup:
 
 	getVersion.py - Retrieve the latest software versions
 	commit.sh - Commit them to github repo
@@ -13,6 +13,6 @@
 	# crontab -e
 	0 */6 * * * /root/Who-Updates/main.py >/dev/null 2>&1
 	
-#### Request
+#### Request:
 
 To add software send request in github
