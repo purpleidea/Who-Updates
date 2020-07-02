@@ -1,0 +1,218 @@
+{
+    "Firefox":{
+        "Snap":"firefox",
+        "Flatpak":"org.mozilla.firefox",
+        "APT":"firefox",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/firefox256.png)"
+    },
+    "Chromium":{
+        "Snap":"chromium",
+        "Flatpak":"",
+        "APT":"chromium",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/05/chromium-browser.png)"
+    },
+    "Libreoffice":{
+        "Snap":"libreoffice",
+        "Flatpak":"org.libreoffice.LibreOffice",
+        "APT":"libreoffice",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/06/LibreOffice-Initial-Artwork-Logo.png)"
+    },
+    "VLC":{
+        "Snap":"vlc",
+        "Flatpak":"org.videolan.VLC",
+        "APT":"vlc",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/07/vlc.png)"
+    },
+    "Audacity":{
+        "Snap":"audacity",
+        "Flatpak":"org.audacityteam.Audacity",
+        "APT":"audacity",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Audacity_Logo_large.svg.png)"
+    },
+    "GIMP":{
+        "Snap":"gimp",
+        "Flatpak":"org.gimp.GIMP",
+        "APT":"gimp",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/07/gimp.png)"
+    },
+    "Thunderbird":{
+        "Snap":"",
+        "Flatpak":"org.mozilla.Thunderbird",
+        "APT":"thunderbird",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/12/thunderbird.png)"
+    },
+    "Inkscape":{
+        "Snap":"inkscape",
+        "Flatpak":"org.inkscape.Inkscape",
+        "APT":"inkscape",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/08/inkscape.png)"
+    },
+    "Blender":{
+        "Snap":"blender",
+        "Flatpak":"org.blender.Blender",
+        "APT":"blender",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2019/07/blender.png)"
+    },
+    "VS Codium":{
+        "Snap":"codium",
+        "Flatpak":"com.vscodium.codium",
+        "APT":"vscodium",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2020/02/codium_blue_light.png)"
+    },
+    "Bitwarden":{
+        "Snap":"bitwarden",
+        "Flatpak":"com.bitwarden.desktop",
+        "APT":"bitwarden",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/256x256.png)"
+    },
+    "KeePassXC":{
+        "Snap":"keepassxc",
+        "Flatpak":"org.keepassxc.KeePassXC",
+        "APT":"keepassxc",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/01/keepassxc.png)"
+    },
+    "Remmina":{
+        "Snap":"remmina",
+        "Flatpak":"org.remmina.Remmina",
+        "APT":"remmina",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/11/org.remmina.Remmina.png)"
+    },
+    "FileZilla":{
+        "Snap":"",
+        "Flatpak":"org.filezillaproject.Filezilla",
+        "APT":"filezilla",
+        "IMG":"![alt text](https://d1uym7oexpphmg.cloudfront.net/169s-dhsxb/q?w=20&h=20&x=1&fit)"
+    },
+    "Cherrytree":{
+        "Snap":"cherrytree",
+        "Flatpak":"com.giuspen.cherrytree",
+        "APT":"cherrytree",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2020/01/cherrytree.png)"
+    },
+    "QOwnNotes":{
+        "Snap":"qownnotes",
+        "Flatpak":"org.qownnotes.QOwnNotes",
+        "APT":"qownnotes",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/07/QOwnNotes.png)"
+    },
+    "Signal":{
+        "Snap":"signal-desktop",
+        "Flatpak":"org.signal.Signal",
+        "APT":"signal-desktop",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/04/icon_256.png)"
+    },
+    "Spotify":{
+        "Snap":"spotify",
+        "Flatpak":"com.spotify.Client",
+        "APT":"spotify",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/12/spotify-linux-256.png)"
+    },
+    "Steam":{
+        "Snap":"",
+        "Flatpak":"com.valvesoftware.Steam",
+        "APT":"steam",
+        "IMG":"![alt text](https://d1uym7oexpphmg.cloudfront.net/9jrq-0trhy/q?w=20&h=20&x=1&fit)"
+    },
+    "Kodi":{
+        "Snap":"",
+        "Flatpak":"tv.kodi.Kodi",
+        "APT":"kodi",
+        "IMG":"![alt text](https://d1uym7oexpphmg.cloudfront.net/rou-z6cupc/q?w=20&h=20&x=1&fit)"
+    },
+    "OBS Studio":{
+        "Snap":"obs-studio",
+        "Flatpak":"com.obsproject.Studio",
+        "APT":"obs-studio",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/obs-studio.png)"
+    },
+    "Kdenlive":{
+        "Snap":"kdenlive",
+        "Flatpak":"org.kde.kdenlive",
+        "APT":"kdenlive",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/10/icon_12.png)"
+    },
+    "Calibre":{
+        "Snap":"",
+        "Flatpak":"com.calibre_ebook.calibre",
+        "APT":"calibre",
+        "IMG":"![alt text](https://d1uym7oexpphmg.cloudfront.net/hbh9-pgc0x/q?w=20&h=20&x=1&fit)"
+    },
+    "Discord":{
+        "Snap":"discord",
+        "Flatpak":"com.discordapp.Discord",
+        "APT":"discord",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/04/discord.png)"
+    },
+    "Telegram":{
+        "Snap":"telegram-desktop",
+        "Flatpak":"org.telegram.desktop",
+        "APT":"telegram-desktop",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/02/icon256.png)"
+    },
+    "Skype":{
+        "Snap":"skype",
+        "Flatpak":"com.skype.Client",
+        "APT":"skype",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2019/08/Skype.png)"
+    },
+    "Riot":{
+        "Snap":"riot-web",
+        "Flatpak":"im.riot.Riot",
+        "APT":"riot",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2019/05/icon_Jfu5bEq.png)"
+    },
+    "RocketChat":{
+        "Snap":"rocketchat-desktop",
+        "Flatpak":"chat.rocket.RocketChat",
+        "APT":"rocketchat",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/12/icon-256_sDZsivC.png)"
+    },
+    "Slack":{
+        "Snap":"slack",
+        "Flatpak":"com.slack.Slack",
+        "APT":"slack",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2019/01/Snapcraft_256x256.png)"
+    },
+    "Atom":{
+        "Snap":"atom",
+        "Flatpak":"io.atom.Atom",
+        "APT":"atom",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/04/atom-256px.png)"
+    },
+    "Pycharm":{
+        "Snap":"pycharm-community",
+        "Flatpak":"com.jetbrains.PyCharm-Community",
+        "APT":"pycharm",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2017/11/PyCharmCore256.png)"
+    },
+    "Postman":{
+        "Snap":"postman",
+        "Flatpak":"com.getpostman.Postman",
+        "APT":"postman",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png)"
+    },
+    "Gitkraken":{
+        "Snap":"gitkraken",
+        "Flatpak":"com.axosoft.GitKraken",
+        "APT":"gitkraken",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/01/1.png)"
+    },
+    "Nextcloud":{
+        "Snap":"nextcloud",
+        "Flatpak":"",
+        "APT":"nextcloud",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2016/06/icon.svg_1.png)"
+    },
+    "Wireshark":{
+        "Snap":"",
+        "Flatpak":"org.wireshark.Wireshark",
+        "APT":"wireshark",
+        "IMG":"![alt text](https://d1uym7oexpphmg.cloudfront.net/vs68-cxion/q?w=20&h=20&x=1&fit)"
+    },
+    "htop":{
+        "Snap":"htop",
+        "Flatpak":"",
+        "APT":"htop",
+        "IMG":"![alt text](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_20,h_20/https://dashboard.snapcraft.io/site_media/appmedia/2018/09/htop.png)"
+    }
+}
