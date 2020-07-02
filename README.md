@@ -1,4 +1,4 @@
-## Who Updates - Live Dashboard for Checking Versions of Common Desktop Linux Software Across Snap, Flatpak, Apt
+## Live Dashboard for Checking Versions of Common Desktop Linux Software Across Snap, Flatpak, Apt
 
 #### Link: https://fortwire.github.io/Who-Updates
 
