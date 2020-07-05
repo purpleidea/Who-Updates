@@ -13,7 +13,7 @@ current_utc = datetime.datetime.utcnow()
 current_utc = current_utc.strftime("%B %d %Y %H:%M UTC")
 
 # Go through and get versions
-with open('list.json') as f:
+with open('/root/Who-Updates/list.json') as f:
   data = json.load(f)
 
 snap_version = ""
@@ -133,9 +133,9 @@ def fix(version):
 #################
 # MAIN FUNCTION #
 #################
-try: os.remove("index.md");
+try: os.remove("/root/Who-Updates/index.md");
 except: print("No file")
-f = open('index.md','a')
+f = open('/root/Who-Updates/index.md','a')
 #f.write('## Linux Software Version Check - Across Snap, Flatpak, Apt\n')
 f.write('### Last Checked: '+str(current_utc)+" (Updated Every 6 Hours)\n\n")
 
