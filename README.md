@@ -11,7 +11,7 @@
 	list.json - List of applications to check software versions
 	
 	# crontab -e
-	0 */6 * * * /root/Who-Updates/main.py >/dev/null 2>&1
+	0 */6 * * * /root/Who-Updates/main.sh >/dev/null 2>&1
 	
 #### Request:
 
