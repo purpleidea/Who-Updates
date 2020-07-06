@@ -139,7 +139,7 @@ f = open('/root/Who-Updates/index.md','a')
 #f.write('## Linux Software Version Check - Across Snap, Flatpak, Apt\n')
 f.write('### Last Checked: '+str(current_utc)+" (Updated Every 6 Hours)\n\n")
 
-f.write('|Software|Snap|Flatpak|Ubuntu|Fedora|Latest\n')
+f.write('|Software|Snap|Flathub|Ubuntu|Fedora|Latest\n')
 f.write('|:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|\n')
 # Loop through json
 for key in data.keys():
