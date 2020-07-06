@@ -1,4 +1,4 @@
-### Last Checked: July 05 2020 18:00 UTC (Updated Every 6 Hours)
+### Last Checked: July 06 2020 00:00 UTC (Updated Every 6 Hours)
 
 |Software|Snap|Flatpak|Ubuntu|Fedora|Latest
 |:-------------|:-------------|:-------------|:-------------|:-------------|:-------------|
